@@ -9,6 +9,7 @@ and you can change some paramiter in file's config part.
 #### getshell.py
 
 > It’s written by 【Opang】 and 【Pikpik】, If you have any problem, I can solve it, but if there is any responsibility, please go to Opang!
+> Opang:https://github.com/RookieDrummer/exp/blob/main/JD%E8%96%85%E7%BE%8A%E6%AF%9B/README.md
 
 `python getshell.py` can get useful tips
 
